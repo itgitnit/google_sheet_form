@@ -1,6 +1,6 @@
 # google_sheet_form
 
-<img src="https://github.com/itgitnit/google_sheet_form/blob/main/Screenshot%20(227).png" width="50" height="50" alt="">
+<img src="https://github.com/itgitnit/google_sheet_form/blob/main/Screenshot%20(227).png" width="500" height="500" alt="">
 
 
 ```
